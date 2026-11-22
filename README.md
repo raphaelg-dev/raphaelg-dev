@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Raphael 
 
-📍 **Montpellier, France** | 🛠️ **Technical Artist** at **[DigixArt](https://digixart.com/)**
+📍 **Montpellier, France** | 🛠️ **Technical Artist** at **[Ubisoft](https://www.ubisoft.com/fr-fr)**
 
 ![Houdini](https://img.shields.io/badge/-Houdini-FF4713?style=flat-square&logo=houdini&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
